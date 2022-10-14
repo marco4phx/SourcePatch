@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2020/04/18 15:33:43.000.074,=C:\Dev\Unit1.pas</Transaction>
+    <Transaction>2020/04/18 15:35:29.000.418,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm=C:\Dev\Unit1.dfm</Transaction>
+    <Transaction>2020/04/18 15:35:29.000.418,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas=C:\Dev\Unit1.pas</Transaction>
+    <Transaction>2020/04/18 15:35:54.000.824,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\DBTparser.dproj=C:\Dev\Project1.dproj</Transaction>
+    <Transaction>2020/05/02 10:15:47.000.196,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1b.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm</Transaction>
+    <Transaction>2020/05/02 10:15:47.000.196,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1b.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas</Transaction>
+    <Transaction>2020/05/02 10:15:58.000.992,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1b.dfm</Transaction>
+    <Transaction>2020/05/02 10:15:58.000.992,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1b.pas</Transaction>
+    <Transaction>2020/05/02 11:59:33.000.886,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1c.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas</Transaction>
+    <Transaction>2020/05/02 11:59:33.000.886,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1c.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm</Transaction>
+    <Transaction>2020/05/02 11:59:43.000.246,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1c.dfm</Transaction>
+    <Transaction>2020/05/02 11:59:43.000.246,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1c.pas</Transaction>
+    <Transaction>2020/05/06 14:18:21.000.887,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1d.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas</Transaction>
+    <Transaction>2020/05/06 14:18:21.000.887,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1d.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm</Transaction>
+    <Transaction>2020/05/06 14:18:32.000.668,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1d.dfm</Transaction>
+    <Transaction>2020/05/06 14:18:32.000.668,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1d.pas</Transaction>
+    <Transaction>2020/05/14 09:24:51.000.801,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10.pas</Transaction>
+    <Transaction>2020/05/14 09:24:51.000.801,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10.dfm</Transaction>
+    <Transaction>2020/05/14 09:25:14.000.536,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm</Transaction>
+    <Transaction>2020/05/14 09:25:14.000.536,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas</Transaction>
+    <Transaction>2020/05/15 16:02:10.000.738,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10b.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas</Transaction>
+    <Transaction>2020/05/15 16:02:10.000.738,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10b.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm</Transaction>
+    <Transaction>2020/05/15 16:02:36.000.004,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10b.dfm</Transaction>
+    <Transaction>2020/05/15 16:02:36.000.004,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10b.pas</Transaction>
+    <Transaction>2020/05/16 14:18:20.000.017,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10c.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas</Transaction>
+    <Transaction>2020/05/16 14:18:20.000.017,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10c.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm</Transaction>
+    <Transaction>2020/05/16 14:18:28.000.704,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10c.pas</Transaction>
+    <Transaction>2020/05/16 14:18:28.000.704,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10c.dfm</Transaction>
+    <Transaction>2020/05/16 21:32:50.000.961,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10d.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas</Transaction>
+    <Transaction>2020/05/16 21:32:50.000.961,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10d.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm</Transaction>
+    <Transaction>2020/05/16 21:33:01.000.259,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.dfm=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10d.dfm</Transaction>
+    <Transaction>2020/05/16 21:33:01.000.259,C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit1.pas=C:\1Drive\OneDrive - Optoelettronica Italia Srl\SviluppoSW\ParserDBT\Unit10d.pas</Transaction>
+    <Transaction>2020/06/18 09:06:59.000.287,C:\Dev\ParserDBT\Unit1e.pas=C:\Dev\ParserDBT\Unit1.pas</Transaction>
+    <Transaction>2020/06/18 09:06:59.000.287,C:\Dev\ParserDBT\Unit1e.dfm=C:\Dev\ParserDBT\Unit1.dfm</Transaction>
+    <Transaction>2020/06/18 09:07:06.000.056,C:\Dev\ParserDBT\Unit1.pas=C:\Dev\ParserDBT\Unit1e.pas</Transaction>
+    <Transaction>2020/06/18 09:07:06.000.056,C:\Dev\ParserDBT\Unit1.dfm=C:\Dev\ParserDBT\Unit1e.dfm</Transaction>
+    <Transaction>2020/12/18 15:08:17.000.453,C:\DevDX\ParserDBT\Unit1.dfm=C:\DevDX\ParserDBT\Unit10e.dfm</Transaction>
+    <Transaction>2020/12/18 15:08:17.000.453,C:\DevDX\ParserDBT\Unit1.pas=C:\DevDX\ParserDBT\Unit10e.pas</Transaction>
+    <Transaction>2020/12/18 15:08:23.000.397,C:\DevDX\ParserDBT\Unit10e.dfm=C:\DevDX\ParserDBT\Unit1.dfm</Transaction>
+    <Transaction>2020/12/18 15:08:23.000.397,C:\DevDX\ParserDBT\Unit10e.pas=C:\DevDX\ParserDBT\Unit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>
